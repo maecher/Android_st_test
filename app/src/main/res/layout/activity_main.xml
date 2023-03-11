@@ -20,15 +20,15 @@
         android:text="part1_test2"></TextView>
 
     <EditText
-        android:id = "@+id/et_id"
-        android:layout_width="300dp"
+        android:id = "@+id/et_test"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"/>
 
     <Button
         android:id="@+id/btn_id"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="버튼"
+        android:text="화면 이동"
         />
 
 
